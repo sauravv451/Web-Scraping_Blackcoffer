@@ -1,5 +1,13 @@
 # Web-Scraping_Blackcoffer
 The objective of this project to extract textual data articless from the given URLs and then perform text analysis
+Learnings from the Project
+ • Introduction to NLTK library in Python
+ • NLP Techniques:
+   Tokenization
+   Lemmatization
+   Removing Stopwords
+   Parts-of-Speech Tagging
+ • Bag-of-Words Model
 
 Data Extraction: For each of the articles, given in the input.xlsx file, extract the article text.
 While extracting text, please make sure your program extracts only the article title and the article text. It should not extract the website header, footer, or anything other than the article text. 
